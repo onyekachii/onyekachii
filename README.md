@@ -1,8 +1,8 @@
 - 👋 Hi, just call me Kachi
-- 👀 I’m am Graduate Geologist transiting into a Career as a Software Engineer.
+- 👀 I’m am Graduate Geologist diving heads-on into the Tech World.
 - 🌱 I’m currently learning Web development. Self-taught.
-- 👨🏿‍💻 I speak JavaScript.
-- ⚙️ Currently working on a Food Vendor App, Aimee at developing my Frontend Skills using React Framework.
+- 👨🏿‍💻 { myTechStack: [HTML, CSS, Bootstrap, jQuery, JavaScript, React]. }
+- ⚙️ Open to Learning and Collaboration.
 
 <!---
 onyekachii/onyekachii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
