@@ -1,5 +1,5 @@
 - 👋 Hi, just call me Kachi
-- 👀 I’m am Graduate Geologist diving heads-on into the Tech World.
+- 👀 I’m am a Geologist. 
 - 🌱 I’m currently learning Web development. Self-taught.
 - 👨🏿‍💻 { myTechStack: [HTML, CSS, Bootstrap, jQuery, JavaScript, React]. }
 - ⚙️ Open to Learning and Collaboration.
