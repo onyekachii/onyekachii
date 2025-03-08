@@ -1,6 +1,6 @@
 - 👋 Hi, just call me Kachi
 - 👀 I’m am a Software Developer and Geoscientist. 
-- 👨🏿‍💻 { myTechStack: [ HTML, CSS, Bootstrap, jQuery, JavaScript, React, Angular, C#, ASP.NET, Xamarin ] }
+- 👨🏿‍💻 { myTechStack: [ HTML, CSS, Bootstrap, jQuery, JavaScript, Blazor, Angular, C#, ASP.NET, ASP.Net core, MAUI, Xamarin, mySQL, MSSQL ] }
 
 <!---
   onyekachii/onyekachii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
