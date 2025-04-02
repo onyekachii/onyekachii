@@ -1,5 +1,5 @@
 - 👋 Hi, just call me Kachi
-- 👀 I’m am a Software Developer and Geoscientist. 
+- 👀 I’m a Software Developer. 
 - 👨🏿‍💻 { myTechStack: [ HTML, CSS, Bootstrap, jQuery, JavaScript, Blazor, Angular, C#, ASP.NET, ASP.Net core, MAUI, Xamarin, mySQL, MSSQL ] }
 
 <!---
